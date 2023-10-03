@@ -1,0 +1,3 @@
+%{
+  "secret_vault": {:hex, :secret_vault, "1.2.1", "9720629f72b62d8513edd2478ba8a4ab8aef46f9a2737406e599d49963355b5b", [:mix], [{:pbkdf2_key_derivation, "~> 2.0", [hex: :pbkdf2_key_derivation, repo: "hexpm", optional: true]}], "hexpm", "859f4ef4625f469ed12d9535d5c8053c24f11e782ed152d83e94ebe4b54fc88d"},
+}
